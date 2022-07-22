@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a personal portfolio
-- 🌱 I’m currently learning checkout my hobbyist github profile @ https://github.com/Crypticaz
+- 🌱 Checkout my hobbyist github profile @ https://github.com/Crypticaz
 
